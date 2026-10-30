@@ -1,0 +1,10 @@
+id: AM104Q340340LK2
+category: displays
+size: "1.04"
+panel: amoled
+resolution: 340x340
+interface: [qspi]
+driver: CO5300
+touch: CST820
+outline: 31.60 x 31.60 mm
+active_area: 26.35 x 26.35 mm
