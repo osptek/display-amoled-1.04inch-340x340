@@ -44,6 +44,7 @@
 | 分类 | 文件 |
 | ---- | ---- |
 | 规格文档 | [`AM104Q340340LK2.pdf`](./datasheets/AM104Q340340LK2.pdf) |
+| CAD 图纸 | [`AM104Q340340LK2.dwg`](./cad/AM104Q340340LK2.dwg) |
 | 转接板资料 | [`AM104Q340340LK2转接板V1.1.pdf`](./adapter/AM104Q340340LK2%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1.pdf) |
 | 转接板资料 | [`AM104Q340340LK2转接板V1.1.step`](./adapter/AM104Q340340LK2%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1.step) |
 
@@ -58,6 +59,7 @@ display-amoled-1.04inch-340x340/ # 仓库根（导航见 ../../README.md，示�
         ├── osptek.yml
         ├── images/
         ├── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
+        ├── cad/              # 外形/盖板 CAD
         └── adapter/          # 转接板资料 + 转接板图片
 ```
 

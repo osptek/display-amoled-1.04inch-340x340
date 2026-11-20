@@ -44,6 +44,7 @@
 | Category | File |
 | ---- | ---- |
 | Datasheet | [`AM104Q340340LK2.pdf`](./datasheets/AM104Q340340LK2.pdf) |
+| CAD file | [`AM104Q340340LK2.dwg`](./cad/AM104Q340340LK2.dwg) |
 | Adapter materials | [`AM104Q340340LK2转接板V1.1.pdf`](./adapter/AM104Q340340LK2%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1.pdf) |
 | Adapter materials | [`AM104Q340340LK2转接板V1.1.step`](./adapter/AM104Q340340LK2%E8%BD%AC%E6%8E%A5%E6%9D%BFV1.1.step) |
 
@@ -58,6 +59,7 @@ display-amoled-1.04inch-340x340/ # repo root (nav: ../../README_EN.md; sample pr
         ├── osptek.yml
         ├── images/
         ├── datasheets/       # product datasheet + driver/touch IC datasheets
+        ├── cad/              # outline/cover CAD
         └── adapter/          # adapter board materials + photos
 ```
 
